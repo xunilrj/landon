@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["blender_armature"] = [{"text":"impl StructuralEq for CoordinateSystem","synthetic":false,"types":[]},{"text":"impl StructuralEq for Axis","synthetic":false,"types":[]},{"text":"impl StructuralEq for Hand","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
